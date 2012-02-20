@@ -1,0 +1,15 @@
+Yii Extension - XmlMenu
+Build your Menu from a Xml File instead of hard coded in your layout/main.php.
+
+Requirements
+
+Yii 1.1 or above
+
+Licence
+New BSD Licence
+Installation
+
+Move XmlMenu.php File in your applications components folder (default: protected/components).
+
+
+
